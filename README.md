@@ -11,4 +11,4 @@ pip install timezonefinder<br>
 https://openweathermap.org/
 
 # Output
-![alt text]([http://url/to/img.png](https://github.com/Kavindulakmal/Weather-app-with-Python-and-Tkinter/blob/main/images/outputs/w01.png)
+![w01](https://user-images.githubusercontent.com/80127637/209468662-d0510ed3-e9ed-4186-afd9-97896deb09db.png)<br>
