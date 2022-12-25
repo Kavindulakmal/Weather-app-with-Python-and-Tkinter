@@ -9,3 +9,6 @@ pip install timezonefinder<br>
 
 # Weather API
 https://openweathermap.org/
+
+# Output
+![alt text]([http://url/to/img.png](https://github.com/Kavindulakmal/Weather-app-with-Python-and-Tkinter/blob/main/images/outputs/w01.png)
