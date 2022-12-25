@@ -2,10 +2,10 @@
 Using Weather API in Python  | OpenWeatherMap API<br>
 Make a weather app using python. It is a completely gui tkinter project. <br>
 
-#Required modules:
+# Required modules:
 pip install pytz<br>
-pip install geopy
-pip install timezonefinder
+pip install geopy<br>
+pip install timezonefinder<br>
 
-#Weather API
+# Weather API
 https://openweathermap.org/
